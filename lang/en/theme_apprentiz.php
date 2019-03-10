@@ -36,13 +36,13 @@ $string['brandcolor'] = 'Brand colour';
 // The brand colour setting description.
 $string['brandcolor_desc'] = 'The accent colour.';
 // A description shown in the admin theme selector.
-$string['choosereadme'] = 'Theme photo is a child theme of Boost. It adds the ability to upload background photos.';
+$string['choosereadme'] = 'Theme apprentiz is a child theme of Boost. It adds the ability to upload background apprentiz.';
 // Name of the settings pages.
-$string['configtitle'] = 'Photo settings';
+$string['configtitle'] = 'Apprentiz settings';
 // Name of the first settings tab.
 $string['generalsettings'] = 'General settings';
 // The name of our plugin.
-$string['pluginname'] = 'Photo';
+$string['pluginname'] = 'Apprentiz';
 // Preset files setting.
 $string['presetfiles'] = 'Additional theme preset files';
 // Preset files help text.
@@ -61,3 +61,7 @@ $string['rawscsspre'] = 'Raw initial SCSS';
 $string['rawscsspre_desc'] = 'In this field you can provide initialising SCSS code, it will be injected before everything else. Most of the time you will use this setting to define variables.';
 // We need to include a lang string for each block region.
 $string['region-side-pre'] = 'Right';
+// Background image for login page.
+$string['loginbackgroundimage'] = 'Login page background image';
+// Background image for login page.
+$string['loginbackgroundimage_desc'] = 'An image that will be stretched to fill the background of the login page.';
